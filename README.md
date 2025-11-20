@@ -2,6 +2,6 @@
 
 C++ 17
 
-JAVA 11
+Java 11
 
-PYTHON 3
+Python 3
